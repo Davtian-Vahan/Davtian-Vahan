@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davtian-Vahan
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently developing video games
 - 💞️ I’m looking to collaborate on relatively challenging C++ projects
 - 📫 How to reach me jedavtian@gmail.com
 
